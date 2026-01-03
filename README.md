@@ -38,6 +38,10 @@ All Pokémon data is provided by the public PokeAPI.
 * `search.js` — Search and filter functionality
 * `style.css` — All styling
 
+## Live Demo
+
+[View Live Demo](https://osama-03.github.io/pokedex-website/)
+
 ## What This Project Demonstrates
 
 * Working with Web APIs
